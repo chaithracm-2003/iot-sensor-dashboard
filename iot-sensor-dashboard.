@@ -1,0 +1,23 @@
+ IoT Sensor Dashboard
+
+Beginner IoT sensor monitoring dashboard using Python and SQLite for real-time data visualization.
+
+Technologies Used
+- Python
+- SQLite
+- Raspberry Pi
+
+ Features
+- Real-time sensor monitoring
+- Database storage
+- Dashboard visualization
+- Sensor data tracking
+
+ Skills Learned
+- Python programming
+- Database integration
+- IoT fundamentals
+- Real-time monitoring
+
+Project Type
+Practice / Self-learning Project
